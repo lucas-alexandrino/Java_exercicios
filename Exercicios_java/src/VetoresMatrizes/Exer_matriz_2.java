@@ -14,7 +14,7 @@ public class Exer_matriz_2 {
 
 		Scanner leia = new Scanner(System.in);
 
-		for (linha = 0; linha < 2; linha++) {
+		for (linha = 0; linha < 10; linha++) {
 			totalNumerosNota = 0;
 			System.out.println("Digite suas notas: ");
 			for (coluna = 0; coluna < 4; coluna++) {
